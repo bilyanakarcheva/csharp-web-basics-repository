@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7333d6b-da92-4cef-b5f1-4e58eb8372f9": {
+      "ProjectGuid": "b7333d6b-da92-4cef-b5f1-4e58eb8372f9",
+      "DisplayName": "BasicWebServer.Server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

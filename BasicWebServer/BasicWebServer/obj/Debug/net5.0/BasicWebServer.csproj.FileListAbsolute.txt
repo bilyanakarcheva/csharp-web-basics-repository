@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\bin\Debug\net5.0\BasicWebServer.exe
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\bin\Debug\net5.0\BasicWebServer.deps.json
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\bin\Debug\net5.0\BasicWebServer.runtimeconfig.json
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\bin\Debug\net5.0\BasicWebServer.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\bin\Debug\net5.0\BasicWebServer.dll
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\bin\Debug\net5.0\ref\BasicWebServer.dll
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\bin\Debug\net5.0\BasicWebServer.pdb
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.dll
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\ref\BasicWebServer.dll
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.pdb
+C:\Users\PC\source\repos\C#WebBasicsCourse\BasicWebServer\BasicWebServer\obj\Debug\net5.0\BasicWebServer.genruntimeconfig.cache
